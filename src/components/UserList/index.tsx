@@ -30,20 +30,20 @@ const UserList: React.FC = () => {
             <UserRow nickname="Drica" isBot />
             <UserRow nickname="Ana P" />  
             <UserRow nickname="Gustavo" />
+            <UserRow nickname="Simba" />
+            <UserRow nickname="Linda" />
+            <UserRow nickname="Mia" />
+            <UserRow nickname="Mary" />
+            <UserRow nickname="Nino" />
+            <UserRow nickname="Tommy" />
+            <UserRow nickname="Bengy" />
+            <UserRow nickname="Angelito" />
+            <UserRow nickname="Luna" />
             <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
-            <UserRow nickname="Fulano" />
+            <UserRow nickname="Ciclano" />
+            <UserRow nickname="Tomano" />
+            <UserRow nickname="Marley" />
+            <UserRow nickname="GP" />
 
         </Container>
     );
