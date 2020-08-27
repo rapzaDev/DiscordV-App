@@ -1,5 +1,7 @@
 import React from 'react';
 
+import ProfilePhoto from '../../assets/profile.png';
+
 import { 
     Container,
     Profile,
@@ -15,7 +17,9 @@ const UserInfo: React.FC = () => {
     return (
         <Container>
             <Profile>
-                <Avatar />
+                <Avatar >
+                { <img src={ProfilePhoto} alt="User's"/> }
+                </Avatar>
                 <UserData>
                     <strong>Rapza</strong>
                     <span>#6641</span>
