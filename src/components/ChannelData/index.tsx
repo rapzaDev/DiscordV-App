@@ -47,6 +47,46 @@ const ChannelData: React.FC = () => {
                     date="12/09/2020"
                     content="Hoje é meu aniversário!"
                 />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
+                <ChannelMessage 
+                    author="Rapza"
+                    date="12/09/2020"
+                    content="Hoje é meu aniversário!"
+                />
 
                 <ChannelMessage 
                     author="Tobias"
